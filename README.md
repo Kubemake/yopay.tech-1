@@ -242,7 +242,7 @@ Content-Type: application/json
 }
 ```
 
-### RETRIEVE
+### RECIEVE
 ```json
 {
     "success": true,
